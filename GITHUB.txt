@@ -31,3 +31,10 @@ we can do multiple stash but we have to mention the index --(imp)
 git stash list will give the list of files with index
 
 git stash apply <index-number>
+
+
+
+if we have the multiple branch in the git hub if we are cloneing then it will give main branch only if we want another branch means we have to mention that like git clone -b <branch-name> url
+
+if we want to switch the branch then we have to use "checkout"
+git checkout <branch-name>
