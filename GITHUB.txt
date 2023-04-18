@@ -38,3 +38,6 @@ if we have the multiple branch in the git hub if we are cloneing then it will gi
 
 if we want to switch the branch then we have to use "checkout"
 git checkout <branch-name>
+
+
+.gitignore -for suppose we have to ignore some files then we will use this to avoid the files to commit ex.target file in maven
