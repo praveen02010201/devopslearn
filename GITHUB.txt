@@ -11,4 +11,6 @@ diagram for the git will be useful.
 
 git init is used to initalize the project
 
-git restore is used to make staged files to unstaged and for discard also
+git restore is used to make staged files to unstaged and for discard also;
+
+to link the github and git we have two ways one is git clone and another is git remote this is the both methods we can link the git and github
