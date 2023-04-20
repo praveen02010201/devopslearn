@@ -38,3 +38,13 @@ if we have the multiple branch in the git hub if we are cloneing then it will gi
 
 if we want to switch the branch then we have to use "checkout"
 git checkout <branch-name>
+
+
+git merge vs git rebase
+
+the output of the both is same but the the main diffrence id the git log command only
+
+the git merge will show all the commit history it is used to track . it will be used when develping the sprint
+thr git rebase will be used when we dont need the particular details.it will be used to sprint1 to sprint 2 like that
+
+
